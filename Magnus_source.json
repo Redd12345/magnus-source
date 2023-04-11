@@ -1,0 +1,35 @@
+{
+  "name": "Magnus Source",
+  "identifier": "com.magnus.apps",
+  "subtitle": "All my apps in one place",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://example.com",
+  "tintColor": "#CB2821",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [
+    {
+      "name": "Uyou+",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Miro92",
+      "subtitle": "An awesome YouTube tweak",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://platinmods.com/attachments/1674990734661-png.487996/",
+      "tintColor": "#FFFFFF",
+      "versions": [
+        {
+          "version": "18.01.6",
+          "date": "2022-05-01T09:00:00-08:00",
+          "size": 20000000,
+          "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
+          "localizedDescription": "New features and bug fixes.",
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ]
+}
